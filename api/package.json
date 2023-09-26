@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "main": "world_bank_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.2"
+  },
+  "type": "module",
+  "description": "",
+  "types": "module"
+}
