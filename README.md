@@ -19,7 +19,6 @@ getting data from api of world bank and creating report and visualisation in jup
 - [Slovak Statistics Office](https://slovak.statistics.sk/wps/portal/ext/themes/demography/population/indicators/)
 - [Slovak National Bank](https://www.nbs.sk/en/statistics)
 - [Eurostat](https://ec.europa.eu/eurostat/web/main/home)
-- [Economical analysis in jupyter](https://github.com/sahidul-shaikh/gdp-analysis-india-2014-15)
 - [Newton model for macroeconomic](https://python.quantecon.org/newton_method.html)
 - [Quantecon](https://quantecon.org/)
 - [Quantecon python](https://python.quantecon.org/intro.html)
