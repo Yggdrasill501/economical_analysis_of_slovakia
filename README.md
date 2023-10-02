@@ -23,7 +23,7 @@ getting data from api of world bank and creating report and visualisation in jup
 - Ramsey–Cass–Koopmans model
 - Endogenous growth theory
 - New Keynesian economics
-- 
+
 ## Source and links
 - [Ministry of Economy of the Slovak Republic](https://www.mhsr.sk/)
 - [Wold Bank](https://data.worldbank.org/country/slovak-republic)
