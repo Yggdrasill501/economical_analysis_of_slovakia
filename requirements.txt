@@ -5,3 +5,4 @@ seaborn
 ipywidgets
 scrapy
 numpy
+eurostat
