@@ -34,3 +34,4 @@ getting data from api of world bank and creating report and visualisation in jup
 - [Newton model for macroeconomic](https://python.quantecon.org/newton_method.html)
 - [Quantecon](https://quantecon.org/)
 - [Quantecon python](https://python.quantecon.org/intro.html)
+- [Ministry of Labour, Social Affairs and Family of the Slovak Republic](https://www.upsvr.gov.sk/statistiky/nezamestnanost-mesacne-statistiky.html?page_id=1254)
