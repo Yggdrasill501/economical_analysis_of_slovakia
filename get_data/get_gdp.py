@@ -13,13 +13,13 @@ class GetGDP:
         """
         self._api = 'http://api.worldbank.org/v2/country/br/indicator/NY.GDP.MKTP.CD?format=json'
         self._url = scrapy.Request(self._api)
-        self._data = scrapy.urlopen(self._url).read()
-        self._gdp = json.loads(self._data)
+        self._spider = scrapy.Spider
 
-    def get_data(self) -> None:
+    def _save_data(self) -> None:
         """Get data from World Bank API.
 
         :rtype None:
         """
-        print(self._gdp)
-        return self._gdp
+
+    
+

@@ -23,6 +23,12 @@ getting data from api of world bank and creating report and visualisation in jup
 - Ramsey–Cass–Koopmans model
 - Endogenous growth theory
 - New Keynesian economics
+- Education rate 
+
+## Ideas
+- AI model for each segment 
+- mby funcitonal framewoke apliable for any other country
+
 
 ## Source and links
 - [Ministry of Economy of the Slovak Republic](https://www.mhsr.sk/)
