@@ -5,7 +5,19 @@ my challenge is to analyse economical growth, labor market behaviour and many mo
 I am also creating a python source code that can be used as general automation of 
 getting data from api of world bank and creating report and visualisation in jupyter notebook.
 
-## How to get data
+
+## Get pdf data 
+I used [md-to-pdf](https://www.npmjs.com/package/md-to-pdf)
+
+1. Install md-to-pdf
+```
+npm i -g md-to-pdf
+```
+
+2.Get pdf
+```
+md-to-pdf ANALYSIS
+```
 
 ## Problems of slovak economy
 - High unemployment rate, especially in eastern part of Slovakia.
