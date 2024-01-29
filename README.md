@@ -1,4 +1,4 @@
-# Data analysis of Slovakia's economic policy
+# Makroeconomical anlysis of Slovakia
 
 In this project i am focusing on analysis of Slovakia's economic policy, 
 my challenge is to analyse economical growth, labor market behaviour and many more. 
